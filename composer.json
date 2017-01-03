@@ -1,13 +1,5 @@
 {
     "name": "s-churkin/cform",
-"version":"1.0.0",
-
-"require":{
-
-"php":">=5.3.0",
-        "s-churkin/cform": "*"
-
-},
     "description": "Web Forms lib for test job Guestbook & simple php progects",
     "keywords": ["form", "table", "captcha", "Guestbook", "test job"],
     "type": "Class library",
