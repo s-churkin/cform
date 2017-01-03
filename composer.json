@@ -8,12 +8,12 @@
         "issues": "https://github.com/s-churkin/cform/issues",
         "source": "https://github.com/s-churkin/cform"
     },
-    "authors": {
+    "authors": [
         {
             "name": "Serge Churkin",
             "email": "s-churkin@ya.ru"
         }
-    },
+    ],
     "autoload": {
         "psr-4": { "s-churkin\\cform\\": "" }
     },
