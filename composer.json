@@ -1,0 +1,25 @@
+{
+    "name": "s-churkin/cform",
+    "description": "Web Forms lib for test job Guestbook & simple php progects",
+    "keywords": ["form", "table", "captcha", "Guestbook", "test job"],
+    "type": "Class library",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/s-churkin/cform/issues",
+        "source": "https://github.com/s-churkin/cform"
+    },
+    "authors": [
+        {
+            "name": "Serge Churkin",
+            "email": "s-churkin@ya.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "s-churkin\\cform\\": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
