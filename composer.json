@@ -4,7 +4,8 @@
 
 "require":{
 
-"php":">=5.3.0"
+"php":">=5.3.0",
+        "s-churkin/cform": "*"
 
 },
     "description": "Web Forms lib for test job Guestbook & simple php progects",
@@ -20,7 +21,7 @@
             "name": "Serge Churkin",
             "email": "s-churkin@ya.ru"
         }
-    ],
+    },
     "autoload": {
         "psr-4": { "s-churkin\\cform\\": "" }
     },
