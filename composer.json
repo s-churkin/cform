@@ -4,6 +4,10 @@
     "keywords": ["form", "table", "captcha", "Guestbook", "test job"],
     "type": "Class library",
     "license": "BSD-3-Clause",
+ "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~4.2"
+    },
     "support": {
         "issues": "https://github.com/s-churkin/cform/issues",
         "source": "https://github.com/s-churkin/cform"
