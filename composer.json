@@ -3,6 +3,7 @@
     "description": "Web Forms lib for test job Guestbook & simple php progects",
     "keywords": ["form", "table", "captcha", "Guestbook", "test job"],
     "type": "library",
+    "minimum-stability": "dev",
     "license": "BSD-3-Clause",
  "require": {
         "php": ">=5.4.0"
